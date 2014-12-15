@@ -17,7 +17,7 @@ The simplest way to obtain the Dreamobi Android SDK is to click the "Download ZI
 
 ##Sample Applications:
 
-Included are three one app to use as example and for help on Dreamobi integration.
+Included are one app to use as example and for help on Dreamobi integration.
 
 ##Legal Requirements:
 
