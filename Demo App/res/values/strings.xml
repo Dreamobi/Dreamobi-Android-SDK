@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">SDKDemo</string>
+    
+    <string name="video_btn">Test Instant Video Ad</string>
+    <string name="video_wall_btn">Test Video Wall</string>
+
+</resources>
